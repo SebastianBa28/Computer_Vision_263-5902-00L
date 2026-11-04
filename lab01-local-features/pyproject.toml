@@ -1,0 +1,14 @@
+[project]
+name = "lab01-local-features"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ipympl>=0.10.0",
+    "jupyterlab>=4.5.11",
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+    "opencv-python>=5.0.0.93",
+    "scipy>=1.13.1",
+]

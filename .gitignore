@@ -1,0 +1,20 @@
+# Course textbook (do not upload)
+Computer_Vision_Lecture_Notes.pdf
+
+# macOS
+.DS_Store
+
+# Python / environments
+__pycache__/
+*.py[oc]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Zip copies of folders already in the repo, and submission zips
+*.zip
+
+# Datasets downloaded automatically by the lab03 notebooks
+lab03_deep_learning_for_CV/data/MNIST/
+lab03_deep_learning_for_CV/data/cifar-10-batches-py/
+lab03_deep_learning_for_CV/data/*.tar.gz
